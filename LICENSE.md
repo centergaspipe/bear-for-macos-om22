@@ -1,4 +1,4 @@
-
+Enhance Bear for macOS with Bear for macOS exclusive Workflow: markdown support & widgets, the #1 workflow. Includes markdown support and widgets for a smoother experience.
 
 
 
